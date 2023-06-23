@@ -1,6 +1,7 @@
 # EDB1 - Estrutura de Dados com PYHTON
-Caso você seja iniciante em python, aconselho olhar esse [Repositório](https://github.com/agiribeiro/Python_beginner)
+Caso você seja iniciante em python, aconselho olhar esse [Repositório](https://github.com/agiribeiro/Python_beginner).
 
+NOTEBOOKS PARA A DISCIPLINA DE ESTRUTURA DE DADOS:
 
 [Aula 01](https://github.com/agiribeiro/EDB1/blob/master/notebooks/1.Listas.ipynb): Listas </a> </br>
 [Aula 02](https://github.com/agiribeiro/EDB1/blob/master/notebooks/2.ListasOrdenadas.ipynb): Listas ordenadas </br>
